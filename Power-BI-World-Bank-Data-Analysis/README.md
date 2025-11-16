@@ -25,7 +25,7 @@ This repository contains data analysis projects based on World Bank datasets, vi
 ## Contact
 
 For questions or feedback, contact:  
-Sudeep Mondal Deep — smdeep137@gmail.com
+Sudeep Mondal Deep - smdeep137@gmail.com
 Whatsapp:01710871404
 
 ---
